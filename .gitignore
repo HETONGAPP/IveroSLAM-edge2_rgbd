@@ -1,0 +1,13 @@
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+
+/tools/Ivero/config/*
+!.clang-format
+.vscode/
+*build/
+*lib/
+ORBvoc.txt
